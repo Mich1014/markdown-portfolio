@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+***Mis mejores atributos son: Mi cabello, mi estatura, y mi color de piel.*** 
+
+_Soy buena dando consejos, comiendo y haciendo cosas random._
