@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+My favorite things are:
+- Eat
+- Sleep
+- Dance
+- Listen to music
+- Read
